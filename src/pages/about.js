@@ -38,8 +38,13 @@ const AboutPage = ({ data }, location) => {
           , and one patent pending filing.
           <br />
           <br />I love working with my hands and tackling new projects. Don't
-          hesitate to shoot me an <a href="mailto:caspar@nyu.edu">email</a> if
-          you'd like to know more.
+          hesitate to shoot me an <a href="mailto:caspar@nyu.edu">
+            email
+          </a> or{" "}
+          <a target="_" href="http://calendly.com/casparlant">
+            schedule a time to meet
+          </a>{" "}
+          if you'd like to know more.
           <br />
           <br />.
           <figure className="kg-card kg-card-full">
