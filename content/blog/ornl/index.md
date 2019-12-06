@@ -1,0 +1,16 @@
+---
+title: "Oak Ridge Lab"
+date: "2019-08-01"
+thumbnail: ./ornl-caspar-1.jpg
+description: SULI Program
+---
+I spent ten weeks this past summer at Oak Ridge National Lab as part of a summer fellowship from the US Department of Energy. I was in the [Surface Chemistry and Heterogeneous Catalysis Group](https://www.ornl.gov/group/scg), and worked directly under [Dr. Aditya Savara](https://www.ornl.gov/staff-profile/aditya-ashi-savara). 
+
+While at ORNL, I conducted complex molecular-beam experiments to on perovskite crystals to characterize the surface kinetics of catalytic reactions of organic alcohols. Reactions of this type could eventually have industrial-scale applications in the production of biofuels. I also designed and fabricated an innovative ”heating enhancement” for our effusive molecular beam, which may result in a patent. I designed a [poster](ORNL-Poster.pdf) (which will be presented at this year's American Chemical Society conference) detailing our results, and submitted a publication-length research [report](ORNL-Report.pdf) to the Department of Energy.
+
+<div class="kg-card">
+
+<img src='ornl-beam-1.png'></img>
+</div>
+
+A description of my summer research was included in an [article](https://engineering.nyu.edu/news/summer-internships-provide-students-career-enhancing-opportunities?fbclid=IwAR3tn3-nOPaOFZoPS41lPyfxWHvmeBC8G2EmWCXfmqIUSTXtF68cnr2YJk4) published by Tandon that I was featured in.  
