@@ -77,6 +77,14 @@ const Layout = props => {
               >
                 Github
               </a>
+              <a
+                href="https://calendly.com/casparlant"
+                title="Calendly"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Calendly
+              </a>
               {/* <Link
                 to={`/rss.xml`}
                 title="RSS"
