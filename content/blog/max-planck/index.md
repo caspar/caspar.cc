@@ -1,5 +1,5 @@
 ---
-title: "HZB Berlin 2016"
+title: "Thin Films"
 date: "2016-10-31"
 thumbnail: ./sem.png
 description: Semesterlong Internship

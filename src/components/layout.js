@@ -31,7 +31,7 @@ const Layout = props => {
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+                <Link to={`/`}>Projects</Link>
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About Me</Link>
@@ -54,9 +54,8 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to="/">
-               <br/>
-              <img src="/logo.png" height="99%">
-              </img>
+              <br />
+              <img src="/logo.png" height="99%"></img>
               {/* {title} */}
             </Link>
           </div>
@@ -68,7 +67,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Linkedin 
+                Linkedin
               </a>
               <a
                 href="https://github.com/caspar"
@@ -76,7 +75,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github 
+                Github
               </a>
               {/* <Link
                 to={`/rss.xml`}
@@ -96,7 +95,7 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash; Built with React.js
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
       </footer>
     </div>
   )

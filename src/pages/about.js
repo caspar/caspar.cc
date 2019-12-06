@@ -13,25 +13,41 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="About" keywords={[`Caspar`, `Caspar Lant`, `Bio`, `Headshot`]} />
+      <SEO
+        title="About"
+        keywords={[`Caspar`, `Caspar Lant`, `Bio`, `Headshot`]}
+      />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           {/* <h4 id="bio"> */}
-            I'm a physics major at NYU in my final semester with a combined 3+ years research experience from fellowship awards at national labs in the <a href='https://science.osti.gov/wdts/suli/'>US</a> and <a href='https://www.daad.de/rise/en/'>Germany</a>. 
-            I'm also the group leader and project founder of IoT sensors development group at Tandon School of Engineering and NYU Shanghai and, most recently, one of this year's <a href='https://www.nyu.edu/students/getting-involved/leadership-and-service/leadership-studies-development/immersive-leadership-program/undergraduate-programs/nyu-leadership-fellows/currentfellows1.html'> NYU Leadership Fellows</a>.  
-            My other accomplishments include: two co-authorships on scientific <a href='/HZB/CASPAR_LANT_Paper_1.pdf'> publications</a>, four commissioned new-media art <a href='/installations'> installations</a>, and one patent pending filing.
-    
-            <br/><br />
-            I love working with my hands and tackling new projects. Don't hesitate to shoot me an <a href="mailto:caspar@nyu.edu">email</a> if you'd like to know more.
-            <br/><br />
-            .
+          I'm a physics major at NYU in my final semester with a combined 3+
+          years research experience from fellowship awards at national labs in
+          the <a href="https://science.osti.gov/wdts/suli/">US</a> and{" "}
+          <a href="https://www.daad.de/rise/en/">Germany</a>. I'm also the group
+          leader and project founder of IoT sensors development group at Tandon
+          School of Engineering and NYU Shanghai and, most recently, one of this
+          year's{" "}
+          <a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/leadership-studies-development/immersive-leadership-program/undergraduate-programs/nyu-leadership-fellows/currentfellows1.html">
+            {" "}
+            NYU Leadership Fellows
+          </a>
+          . My other accomplishments include: two co-authorships on scientific{" "}
+          <a href="/HZB/CASPAR_LANT_Paper_1.pdf"> publications</a>, four
+          commissioned new-media art <a href="/installations"> installations</a>
+          , and one patent pending filing.
+          <br />
+          <br />I love working with my hands and tackling new projects. Don't
+          hesitate to shoot me an <a href="mailto:caspar@nyu.edu">email</a> if
+          you'd like to know more.
+          <br />
+          <br />.
           <figure className="kg-card kg-card-full">
+            <br />
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            Me at Oak Ridge National Lab this year
           </figure>
           {/* <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
@@ -67,9 +83,7 @@ const indexQuery = graphql`
         title
       }
     }
-    benchAccounting: file(
-      relativePath: { eq: "ornl-caspar-1.jpg" }
-    ) {
+    benchAccounting: file(relativePath: { eq: "ornl-caspar-1.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
