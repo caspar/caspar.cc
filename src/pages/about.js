@@ -59,7 +59,7 @@ const AboutPage = ({ data }, location) => {
           hesitate to shoot me an <a href="mailto:caspar@nyu.edu">
             email
           </a> or{" "}
-          <a target="_" href="http://calendly.com/casparlant/meet">
+          <a target="_" href="http://calendly.com/casparlant/30min">
             schedule a time to meet
           </a>{" "}
           if you'd like to know more.
