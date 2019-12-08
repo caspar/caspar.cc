@@ -31,6 +31,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
+    "react-slick": "^0.25.2",
+    "rehype-react": "^4.0.1",
+    "slick-carousel": "^1.8.1",
     "typeface-alegreya": "^0.0.69",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.54",
@@ -57,7 +60,7 @@
   ],
   "license": "MIT",
   "main": "n/a",
-  "repository": "n/a", 
+  "repository": "n/a",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
