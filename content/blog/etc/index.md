@@ -13,8 +13,6 @@ description: Other things I've made
 
 </div>
 
-![](./hua-1.png)
-
 **"花"** - 3D printed flower (with chinese "flower" character). I originally made this as a thank you gift for one of my Chinese professors at NYU.
 
 <div class="kg-card kg-image-card">
