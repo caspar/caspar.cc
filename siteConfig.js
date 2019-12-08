@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Caspar Lant | Portfolio Website",
+  name: "Caspar Lant",
   shortName: "Caspar",
   description: "",
   url: "http://caspar.cc/", // Domain of your site without prefix!

@@ -9,7 +9,7 @@ In August 2019, I installed two air quality monitors at the NYU Shanghai Campus.
 
 <div class="kg-card kg-image-card">
 
-![Caspar](./air-quality-caspar-1.jpg)
+![Caspar](./air-quality-monitor-mounted-2.png)
 
 </div>
 
