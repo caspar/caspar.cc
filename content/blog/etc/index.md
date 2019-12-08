@@ -7,7 +7,7 @@ description: Other things I've made
 
 <div class="kg-embed-card">
     <video width="100%" autoplay loop>
-    <source src="hua-turntable-1.mp4" type="video/mp4"/>
+    <source src="hua-turntable-3.mp4" type="video/mp4"/>
     Your browser does not support the video tag :(
  </video>
 
@@ -22,6 +22,21 @@ description: Other things I've made
 </div>
 
 **personal heatmap** - I log my location continuously with Google maps. These are my movements around New York City from 2015-2019.
+
+<div class="kg-card kg-image-card">
+
+![](./vacuum-forming-ginger-1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card">
+
+![](./vacuum-forming-casparcc-1.jpg)
+
+</div>
+
+**vacuum-forming** - vacuum formed ginger root and site logo.
+(styrene thermoplastic, suction, soap bubbles)
 
 <div class="kg-card kg-image-card">
 
