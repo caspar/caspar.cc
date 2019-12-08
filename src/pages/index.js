@@ -30,7 +30,7 @@ const BlogIndex = ({ data }, location) => {
           `New York University`,
           `NYU`,
         ]}
-        description="Caspar Lant's Portfolio Website'"
+        description="Caspar Lant's Portfolio Website"
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
