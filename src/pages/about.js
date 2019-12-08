@@ -14,8 +14,16 @@ const AboutPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="About"
-        keywords={[`Caspar`, `Caspar Lant`, `Bio`, `Headshot`]}
+        title="Caspar Lant | About"
+        keywords={[
+          `Caspar`,
+          `Caspar Lant`,
+          `Bio`,
+          `Headshot`,
+          `NYU`,
+          `New York University`,
+        ]}
+        description="Caspar Lant: Artist, Scientist, Engineer"
       />
 
       <article className="post-content page-template no-image">
@@ -23,18 +31,28 @@ const AboutPage = ({ data }, location) => {
           {/* <h4 id="bio"> */}
           I'm a physics major at NYU in my final semester with a combined 3+
           years research experience from fellowship awards at national labs in
-          the <a href="https://science.osti.gov/wdts/suli/">US</a> and{" "}
-          <a href="https://www.daad.de/rise/en/">Germany</a>. I'm also the group
-          leader and project founder of IoT sensors development group at Tandon
-          School of Engineering and NYU Shanghai and, most recently, one of this
-          year's{" "}
+          the{" "}
+          <a target="_" href="https://science.osti.gov/wdts/suli/">
+            US
+          </a>{" "}
+          and{" "}
+          <a target="_" href="https://www.daad.de/rise/en/">
+            Germany
+          </a>
+          . I'm also the group leader and project founder of IoT sensors
+          development group at Tandon School of Engineering and NYU Shanghai
+          and, most recently, one of this year's{" "}
           <a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/leadership-studies-development/immersive-leadership-program/undergraduate-programs/nyu-leadership-fellows/currentfellows1.html">
             {" "}
             NYU Leadership Fellows
           </a>
           . My other accomplishments include: two co-authorships on scientific{" "}
-          <a href="/HZB/CASPAR_LANT_Paper_1.pdf"> publications</a>, four
-          commissioned new-media art <a href="/installations"> installations</a>
+          <a target="_" href="http://caspar.cc/paper-1.pdf">
+            {" "}
+            publications
+          </a>
+          , four commissioned new-media art{" "}
+          <a href="/installations"> installations</a>
           , and one patent pending filing.
           <br />
           <br />I love working with my hands and tackling new projects. Don't

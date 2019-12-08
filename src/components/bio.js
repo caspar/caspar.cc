@@ -25,9 +25,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>.{` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow them on Twitter
+              Made by <strong>{author}</strong>.{` `}
+              <a href={`https://linkedin.com/in/${social.twitter}`}>
+                You should add him on Linkedin
               </a>
             </p>
           </section>
