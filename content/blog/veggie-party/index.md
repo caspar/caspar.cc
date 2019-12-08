@@ -49,9 +49,9 @@ description: New Media Art Installation
 
 **yuca**
 
-<figure class="kg-card kg-gallery-card kg-width-full">
-    <div class="kg-gallery-container kg-width-full">
-        <div class="kg-gallery-row kg-width-full">
+<figure class="kg-card kg-gallery-card">
+    <div class="kg-gallery-container">
+        <div class="kg-gallery-row">
             <div class="kg-gallery-image">
                 <img src="veggie-party-jackfruit-1.jpg"></img>
             </div>
