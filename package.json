@@ -1,7 +1,7 @@
 {
   "name": "caspar-cc",
   "private": true,
-  "description": "Caspar Lant Personal Website",
+  "description": "Caspar Lant | Projects",
   "version": "1.0.0",
   "author": "Caspar Lant <caspar@nyu.edu>",
   "bugs": {
@@ -19,6 +19,7 @@
     "gatsby-plugin-purgecss": "^3.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.0.36",
+    "gatsby-plugin-sitemap": "^2.2.22",
     "gatsby-remark-copy-linked-files": "^2.0.12",
     "gatsby-remark-images": "^2.0.6",
     "gatsby-remark-prismjs": "^3.2.9",
@@ -52,15 +53,17 @@
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
-    "Caspar",
     "Caspar Lant",
+    "Caspar",
     "Portfolio",
     "Engineer",
-    "Artist"
+    "Artist",
+    "NYU",
+    "New York University"
   ],
-  "license": "MIT",
-  "main": "n/a",
-  "repository": "n/a",
+  "license": "CC BY-NC-SA",
+  "main": "http://caspar.cc/",
+  "repository": "http://github.com/caspar/caspar.cc",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
