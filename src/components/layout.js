@@ -78,7 +78,7 @@ const Layout = props => {
                 Github
               </a>
               <a
-                href="https://calendly.com/casparlant"
+                href="https://calendly.com/casparlant/30min"
                 title="Calendly"
                 target="_blank"
                 rel="noopener noreferrer"
