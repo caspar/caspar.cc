@@ -1,7 +1,7 @@
 ---
 title: Shanghai Air Quality
 date: "2019-11-11"
-thumbnail: ./air-quality-caspar-2.png
+thumbnail: ./air-quality-caspar-2.jpg
 description: Green Grant and Tandon VIP Project
 ---
 
