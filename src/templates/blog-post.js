@@ -1,6 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
+import rehypeReact from "rehype-react"
+import Slider from "../components/Slider"
+// import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -9,6 +11,11 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
+
+    const renderAst = new rehypeReact({
+      createElement: React.createElement,
+      components: { slider: Slider },
+    }).Compiler
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -37,10 +44,11 @@ class BlogPostTemplate extends React.Component {
             </div>
           )}
 
-          <div
+          {renderAst(post.htmlAst)}
+          {/* <div
             className="post-content-body"
             dangerouslySetInnerHTML={{ __html: post.html }}
-          />
+          /> */}
 
           <footer className="post-content-footer">
             {/* There are two options for how we display the byline/author-info.
@@ -67,7 +75,7 @@ export const pageQuery = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
-      html
+      htmlAst
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

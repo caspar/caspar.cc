@@ -11,7 +11,8 @@ In summer 2017 I mounted addressable white LED strips in aluminum gutters, and h
 
 <div class="kg-embed-card kg-width-full">
 
-<img src='atonal-2017.gif'></img>
+<slider>
+<!-- <img src='atonal-2017.gif'></img> -->
 
 </div>
 

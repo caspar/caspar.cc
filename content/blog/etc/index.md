@@ -21,3 +21,8 @@ description: Other things I've made
 <img src='bike-decal-1.jpg'></img>
 <!-- <figcaption>Caspar.cc logo vinyl bike decal</figcaption> -->
 </figure>
+
+<div>
+    <slider>
+    </slider>
+</div>
