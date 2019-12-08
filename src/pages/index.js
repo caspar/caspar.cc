@@ -31,6 +31,7 @@ const BlogIndex = ({ data }, location) => {
           `NYU`,
         ]}
         description="Caspar Lant's Portfolio Website"
+        socialimage="http://caspar.cc/headshot.jpg"
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (

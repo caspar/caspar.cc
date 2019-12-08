@@ -43,7 +43,7 @@ Currently, our team is working with the U.N. and the University of Nairobi to he
 
 </div>
 
-You can find our group's most recent project report [here](https://docs.google.com/document/d/1Ki2vlGDsf7YYq9A7FM6ckWLvHiXE8sMqsR7v5EqkJS0/export?format=pdf). Below you'll find a diagram of the project's data insfrastructure.
+You can find our group's most recent [project report here](https://docs.google.com/document/d/1Ki2vlGDsf7YYq9A7FM6ckWLvHiXE8sMqsR7v5EqkJS0/export?format=pdf). Below you'll find a diagram of the project's data insfrastructure.
 
 <div class="kg-card kg-image-card">
 
