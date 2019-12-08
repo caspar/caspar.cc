@@ -11,6 +11,12 @@ description: New Media Art Installation
 
 </div>
 
+<div class="kg-card kg-image-card">
+
+![Board](./veggie-party-board-3.jpg)
+
+</div>
+
 - Floating array of wireless RGB lights controllable by event attendees via web interface
 - Vacuum-formed two-part moulds from large vegetables for light-di↵using enclosures
 - Fabricated circuit boards with wireless microcontrollers running custom firmware
@@ -26,3 +32,40 @@ description: New Media Art Installation
 ![Jackfruit](./veggie-party-jackfruit-2.jpg)
 
 </div>
+
+**jackfruit**
+
+<div class="kg-card kg-image-card">
+
+![yuca](./veggie-party-yuca-1.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card">
+
+![yuca](./veggie-party-yuca-2.jpg)
+
+</div>
+
+**yuca**
+
+<figure class="kg-card kg-gallery-card kg-width-full">
+    <div class="kg-gallery-container kg-width-full">
+        <div class="kg-gallery-row kg-width-full">
+            <div class="kg-gallery-image">
+                <img src="veggie-party-jackfruit-1.jpg"></img>
+            </div>
+             <div class="kg-gallery-image">
+                <img src="veggie-party-jackfruit-2.jpg"></img>
+            </div>
+        </div>
+        <div class="kg-gallery-row">
+          <div class="kg-gallery-image">
+                <img src="veggie-party-yuca-1.jpg"/>
+          </div>
+            <div class="kg-gallery-image">
+                <img src="veggie-party-yuca-2.jpg"/>
+            </div>
+        </div>
+    </div>
+</figure>
