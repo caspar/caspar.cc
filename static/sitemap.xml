@@ -4,45 +4,57 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://caspar.cc/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://caspar.cc/about/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
-  <priority>0.99</priority>
+  <loc>https://caspar.cc/about</loc>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caspar.cc/air-quality/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caspar.cc/ornl/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://caspar.cc/veggie-party/</loc>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caspar.cc/hzb/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://caspar.cc/installations/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <loc>https://caspar.cc/atonal/</loc>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://caspar.cc/gould-plaza/</loc>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caspar.cc/max-planck/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://caspar.cc/etc/</loc>
-  <lastmod>2019-11-19T06:37:17+00:00</lastmod>
+  <lastmod>2019-12-08T03:20:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
