@@ -33,7 +33,7 @@ description: New Media Art Installation
 
 </div>
 
-**jackfruit**
+<!-- **jackfruit** -->
 
 <div class="kg-card kg-image-card">
 
@@ -47,9 +47,18 @@ description: New Media Art Installation
 
 </div>
 
-**yuca**
+<!-- **yuca** -->
 
-<figure class="kg-card kg-gallery-card">
+<div class="kg-card kg-width-wide">
+
+<!-- |||
+|-|-|
+|![yuca](./veggie-party-jackfruit-1.jpg)    |![yuca](./veggie-party-jackfruit-2.jpg)|
+|![yuca](./veggie-party-yuca-1.jpg)|![yuca](./veggie-party-yuca-2.jpg)| -->
+
+</div>
+
+<!-- <figure class="kg-card kg-gallery-card">
     <div class="kg-gallery-container">
         <div class="kg-gallery-row">
             <div class="kg-gallery-image">
@@ -68,4 +77,4 @@ description: New Media Art Installation
             </div>
         </div>
     </div>
-</figure>
+</figure> -->
