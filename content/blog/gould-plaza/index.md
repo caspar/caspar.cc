@@ -13,16 +13,16 @@ NYU suffers from a lack of unified communal identity that I feel is symptomatic 
 
 </div>
 
-I am populating the plaza with brightly colored recycled plastic benches designed by to bring levity to the space.
+I am populating the plaza with brightly colored recycled plastic benches (shown here in NYU purple) designed by to bring levity to the space.
 
 <div class="kg-card kg-image-card">
 
-![Enzi](./enzi-1.jpg)
+![Gould Plaza Render](./gould-plaza-render.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card">
 
-![Gould Plaza Render](./gould-plaza-render.jpg)
+![Enzi](./enzi-1.jpg)
 
 </div>

@@ -15,11 +15,10 @@ In 2017 I won a scholarship from the German Academic Exchange Service (DAAD) to 
 
 Because the magnetic bottle spectrometer used during the experiment was home­brewed, we had only an anecdotal understanding of how changing its parameters would affect capture efficiency and energy resolution. I modeled the bottle in SIMION, an ion and electron optics simulator. The results will enable the group to establish bottle settings before future beamtimes, saving hours of calibration.
 
-<figure class="kg-embed-card">
+<figure class="kg-card kg-embed-card">
 
 <img src='explode.gif'></img>
 
-<!-- <figcaption>hi</figcaption> -->
 </figure>
 
 <!-- <figure class="kg-embed-card">
