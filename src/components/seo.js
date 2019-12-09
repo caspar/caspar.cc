@@ -87,7 +87,12 @@ function SEO({ description, lang, meta, keywords, title, socialimage }) {
 
 SEO.defaultProps = {
   lang: `en`,
-  meta: [],
+  meta: [
+    {
+      property: `og:image`,
+      content: `http://caspar.cc/headshot.jpg`,
+    },
+  ],
   keywords: [],
   description: ``,
 }

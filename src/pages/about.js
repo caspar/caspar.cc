@@ -24,6 +24,7 @@ const AboutPage = ({ data }, location) => {
           `New York University`,
         ]}
         description="Caspar Lant: Artist, Scientist, Engineer"
+        socialimage="http://caspar.cc/headshot.jpg"
       />
 
       <article className="post-content page-template no-image">
