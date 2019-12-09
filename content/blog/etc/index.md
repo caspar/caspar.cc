@@ -44,7 +44,7 @@ description: Other things I've made
 
 </div>
 
-**caspar.cc** - site logo vinyl bike decal for my Brompton. I made a decal that says "personal mobility device" for the other side so I can get it onto airplanes :)
+**caspar.cc** - site logo vinyl bike decal for my Brompton.
 
 <div class="kg-image-card">
 

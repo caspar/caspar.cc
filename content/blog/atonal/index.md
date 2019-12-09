@@ -5,7 +5,7 @@ thumbnail: ./atonal-2017-3.jpg
 description: Large-scale light installations
 ---
 
-I was commissioned by [Berlin Atonal](http://berlin-atonal.com) for three consecutive years to design, construct, and operate light installations for their annual music and art festival at Kraftwerk Berlin, a massive dufunct East German power station.
+I was commissioned by [Berlin Atonal](http://berlin-atonal.com) for three consecutive years to design, construct, and operate light installations for their annual music and art festival at Kraftwerk Berlin—a massive dufunct East German power station.
 ##2017
 In summer 2017 I mounted addressable white LED strips in aluminum gutters, and hung them facing the massive concrete pillars that permeate the space. I used max-MSP and VVVV to spacially map the location of each single LED pixel, and used this mapping to produce volumetric animations within the space.
 
