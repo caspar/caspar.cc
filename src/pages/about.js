@@ -65,8 +65,7 @@ const AboutPage = ({ data }, location) => {
           </a>{" "}
           if you'd like to know more.
           <br />
-          <br />.
-          <figure className="kg-card kg-card-full">
+          <figure className="kg-card kg-image-card">
             <br />
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
