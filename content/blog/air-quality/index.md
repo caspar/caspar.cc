@@ -9,7 +9,7 @@ In August 2019, I installed two air quality monitors at the NYU Shanghai Campus.
 
 <div class="kg-card kg-image-card">
 
-![Caspar](./air-quality-monitor-mounted-2.png)
+![Caspar](./air-quality-monitor-mounted-2.png "air quality monitor mounted")
 
 </div>
 
@@ -17,11 +17,11 @@ The project has been featured on NYU's [Twitter](https://twitter.com/nyutandon/s
 
 <div class="kg-card kg-image-card">
 
-![Internals](./air-quality-monitor-internals-2.jpg)
+![Internals](./air-quality-monitor-internals-2.jpg "air quality monitor internals")
 
 </div>
 
-We developed a web data-dashboard that displays live air quality information directly from the sensors in Shanghai: [airquality.engineering.nyu.edu](http://airquality.engineering.nyu.edu/) . The site is broadcasted continuously to two displays in the the NYU Shanghai campus in an effort to raise awareness about local air quality. The site updates every five seconds with measurements of particulate matter, climate, and greenhouse gases. We also display the live AQI (a more legible measure of air quality).
+We developed a web data-dashboard that displays live air quality information directly from the sensors in Shanghai: **<http://airquality.engineering.nyu.edu/>** . The site is broadcasted continuously to two displays in the the NYU Shanghai campus in an effort to raise awareness about local air quality. The site updates every five seconds with measurements of particulate matter, climate, and greenhouse gases. We also display the live AQI (a more legible measure of air quality).
 
 Currently, our team is working with the U.N. and the University of Nairobi to help them get set up with the web framework we developed for their own monitors.
 
@@ -39,7 +39,7 @@ Currently, our team is working with the U.N. and the University of Nairobi to he
 
 <div class="kg-card kg-image-card">
 
-![Screenshot](./air-quality-screenshot-3.png)
+![Screenshot](./air-quality-screenshot-3.png "screenshot of air quality website")
 
 </div>
 
@@ -47,7 +47,7 @@ You can find our group's most recent [project report here](https://docs.google.c
 
 <div class="kg-card kg-image-card">
 
-![Data Infrastructure](./air-quality-diagram.png)
+![Data Infrastructure](./air-quality-diagram.png "diagram of data infrastructure")
 
 </div>
 <!-- The site updates every five seconds with measurements of particulate matter, climate, and greenhouse gases. We also display the live AQI (a more legible measure of air quality). [Come visit!](airquality.engineering.nyu.edu)

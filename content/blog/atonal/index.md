@@ -1,8 +1,8 @@
 ---
-title: Berlin Atonal
+title: Large-scale Festival Light Installation
 date: "2017-08-20"
 thumbnail: ./atonal-2017-3.jpg
-description: Large-scale light installations
+description: Berlin Atonal
 ---
 
 I was commissioned by [Berlin Atonal](http://berlin-atonal.com) for three consecutive years to design, construct, and operate light installations for their annual music and art festival at Kraftwerk Berlin—a massive dufunct East German power station.

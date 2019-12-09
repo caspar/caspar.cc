@@ -5,7 +5,7 @@ thumbnail: ./cryostat-screenshot-01.png
 description: DAAD RISE Scholarship and DURF Grant
 ---
 
-In 2017 I won a scholarship from the German Academic Exchange Service (DAAD) to do summer research at the Leibniz Institute of Surface Engineering (IOM) and Helmholtz Zentrum Berlin (HZB) with the Electron Spectroscopy Group. My summer began with a two-­week long experimental campaign at the BESSY II Synchrotron, where our group examined Interatomic Coulombic Decay (ICD) processes using time­-of­-flight (ToF) electron­e-electron coincidence spectroscopy on a liquid jet. I plotted these coincidences on a 2D ToF map using a custom Python script to determine the energies of ICD channels in our samples. I made figures for a poster presented at a Gordon Research Conference, on which I was an author.
+I spent most of 2017 at the Leibniz Institute of Surface Engineering (IOM) and Helmholtz Zentrum Berlin (HZB) with the Electron Spectroscopy Group through a scholarship from the German Government (DAAD RISE). My summer began with a two-­week long experimental campaign at the BESSY II Synchrotron, where our group examined Interatomic Coulombic Decay (ICD) processes using time­-of­-flight (ToF) electron­e-electron coincidence spectroscopy on a liquid jet. I plotted these coincidences on a 2D ToF map using a custom Python script to determine the energies of ICD channels in our samples. I made figures for a poster presented at a Gordon Research Conference, on which I was an author. My work was also included in a [paper](./caspar-lant-paper-1.pdf) in the AIP journal _Review of Scientific Instruments_
 
 <figure class="kg-card kg-image-card">
 
@@ -15,7 +15,7 @@ In 2017 I won a scholarship from the German Academic Exchange Service (DAAD) to 
 
 Because the magnetic bottle spectrometer used during the experiment was home­brewed, we had only an anecdotal understanding of how changing its parameters would affect capture efficiency and energy resolution. I modeled the bottle in SIMION, an ion and electron optics simulator. The results will enable the group to establish bottle settings before future beamtimes, saving hours of calibration.
 
-<figure class="kg-card kg-embed-card">
+<figure class="kg-embed-card">
 
 <img src='explode.gif'></img>
 

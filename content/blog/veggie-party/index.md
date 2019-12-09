@@ -1,8 +1,8 @@
 ---
-title: '"Veggie Party"'
+title: "New Media Wireless Installation"
 date: "2018-10-31"
 thumbnail: ./veggie-party-board-2.jpg
-description: New Media Art Installation
+description: Fully-wireless glowing vegetables.
 ---
 
 <div class="kg-card kg-image-card">

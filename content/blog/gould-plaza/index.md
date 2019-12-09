@@ -1,5 +1,5 @@
 ---
-title: "Gould Plaza"
+title: "Gould Plaza Liberation"
 date: "2017-06-01"
 thumbnail: ./gould-plaza-render.jpg
 description: My Leadership Fellows Project

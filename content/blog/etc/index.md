@@ -13,7 +13,7 @@ description: Other things I've made
 
 </div>
 
-**"花"** - 3D printed flower (with chinese "flower" character). I originally made this as a thank you gift for one of my Chinese professors at NYU.
+**"花" (Huā)** - 3D printed flower (with chinese "flower" character). I originally made this as a thank you gift for one of my Chinese professors at NYU.
 
 <div class="kg-card kg-image-card">
 
@@ -21,13 +21,13 @@ description: Other things I've made
 
 </div>
 
-**personal heatmap** - I log my location continuously with Google maps. These are my movements around New York City from 2015-2019.
+**personal heatmap** - Google logs my location continuously through the Maps app on my phone. I downloaded my location history from Google, and plotted it using Python and the Google Maps API. (These are my movements around New York City from 2015-2019.)
 
-<div class="kg-card kg-image-card">
+<!-- <div class="kg-card kg-image-card">
 
 ![](./vacuum-forming-ginger-1.jpg)
 
-</div>
+</div> -->
 
 <div class="kg-card kg-image-card">
 
@@ -35,7 +35,7 @@ description: Other things I've made
 
 </div>
 
-**vacuum-forming** - vacuum formed ginger root and site logo.
+**vacuum-forming** - vacuum formed caspar.cc site logo.
 (styrene thermoplastic, suction, soap bubbles)
 
 <div class="kg-card kg-image-card">
@@ -44,15 +44,15 @@ description: Other things I've made
 
 </div>
 
-**caspar.cc** - site logo vinyl bike decal for my Brompton.
+**vinyl decal** - caspar.cc site logo.
 
-<div class="kg-image-card">
+<div class="kg-card kg-image-card">
 
 ![iphone jig](./iphone-jig.png)
 
 </div>
 
-**phone jig** - I made these iphone jigs for a friend's custom phone case printing project. I said he should post up in front of the SoHo Apple store on a nice day and sell them. You wouldn't even need a vendor's license if you sold them as artworks.
+**3D printed phone jig** - I designed these to support a custom phone case printing project. You attach a blank phone case to the jig and print an image onto it using a sublimation printer. This jig ensures that your print is squared up each time.
 
 <div class="kg-card kg-image-card">
 
@@ -60,7 +60,7 @@ description: Other things I've made
 
 </div>
 
-**"smarticus"** - aftermarket smart fridge product. This module sits in your fridge's door and keeps a list of its contents by reading the barcode of everything you put in and take out of your fridge. The biggest challenge is powering it.
+**"smarticus"** - an aftermarket smart fridge product that's still in the pipeline. This module sits in your fridge's door and keeps a list of its contents by reading the barcode of everything you put in and take out of your fridge. The biggest design challenge is keeping it powered.
 
 <!-- <figure class="kg-card kg-gallery-card">
     <div class="kg-gallery-container">
