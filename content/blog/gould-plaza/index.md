@@ -5,7 +5,7 @@ thumbnail: ./gould-plaza-render.jpg
 description: My Leadership Fellows Project
 ---
 
-NYU suffers from a lack of unified communal identity that I feel is symptomatic of an absence of inviting outdoor spaces. As part of the 2019 Leadership Fellows cohort, I will bring inviting seating into Gould Plaza (below), an underutilized space at the physical center of NYU's Manhattan campus.
+NYU suffers from a lack of unified communal identity that I feel is symptomatic of a paucity of inviting outdoor spaces. As part of the 2019 Leadership Fellows cohort, I will bring inviting seating into Gould Plaza (below), an underutilized space at the physical center of NYU's Manhattan campus.
 
 <div class="kg-card kg-image-card">
 
