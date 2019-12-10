@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Image } from "gatsby"
+// import { Image } from "gatsby"
 // import './logo.png'
 
 // import logo from "./logo.png"
@@ -43,7 +43,7 @@ const Layout = props => {
                 <Link to={'https://calendly.com/casparlant/call'}>Elements</Link>
               </li> */}
               <a
-                href="http://caspar.cc/CASPAR-LANT-CV.pdf"
+                href="CASPAR-LANT-CV.pdf"
                 title="CV"
                 target="_blank"
                 rel="noopener noreferrer"

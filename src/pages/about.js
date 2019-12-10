@@ -58,12 +58,16 @@ const AboutPage = ({ data }, location) => {
           <br />
           <br />I love working with my hands and tackling new projects. Don't
           hesitate to shoot me an <a href="mailto:caspar@nyu.edu">
-            email
+            {" "}
+            email{" "}
           </a> or{" "}
           <a target="_" href="http://calendly.com/casparlant/30min">
+            {" "}
             schedule a time to meet
           </a>{" "}
           if you'd like to know more.
+          <br />
+          <br />
           <br />
           <figure className="kg-card kg-image-card">
             <br />
@@ -72,27 +76,6 @@ const AboutPage = ({ data }, location) => {
               className="kg-image"
             />
           </figure>
-          {/* <h3 id="dynamic-styles">Dynamic styles</h3>
-          <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
-          </p>
-          <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p> */}
         </div>
       </article>
     </Layout>
@@ -109,7 +92,7 @@ const indexQuery = graphql`
     benchAccounting: file(relativePath: { eq: "ornl-caspar-1.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
+          ...GatsbyImageSharpFluid_tracedSVG
         }
       }
     }

@@ -13,7 +13,7 @@ class NotFoundPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="404: Not Found" />
         <div className="kg-image-card kg-embed-card kg-width-full">
-          <img src="/404-1.png" />
+          <img src="/404-1.png" alt="404" />
           <h3>lost?</h3>
         </div>
       </Layout>

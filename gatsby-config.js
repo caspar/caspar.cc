@@ -38,8 +38,17 @@ module.exports = {
               showCaptions: true,
               quality: 75,
               wrapperStyle: `margin: 7vw 0;`,
-              backgroundColor: ` #f9f0fa`,
+              tracedSVG: true,
+              tracedSVG: {
+                color: `lightgray`,
+                optTolerance: 0.4,
+                turdSize: 100,
+                turnPolicy: "TURNPOLICY_MAJORITY",
+              },
+              backgroundColor: `transparent`,
+              backgroundImage: `transparent`,
               disableBgImageOnAlpha: `true`,
+              showCaptions: true,
             },
           },
           {
@@ -71,7 +80,7 @@ module.exports = {
       resolve: `gatsby-plugin-purgecss`,
       options: {
         printRejected: true, // Print removed selectors and processed file names
-        // develop: true, // Enable while using `gatsby develop`
+        develop: true, // Enable while using `gatsby develop`
         // tailwind: true, // Enable tailwindcss support
         // whitelist: ['whitelist'], // Don't remove this selector
         // ignore: ['/ignored.css', 'prismjs/', 'docsearch.js/'], // Ignore files/folders
@@ -92,7 +101,7 @@ module.exports = {
         short_name: siteConfig.shortName,
         start_url: siteConfig.prefix,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#00ffff`,
         display: `minimal-ui`,
         icon: `content/assets/transistor.png`,
       },

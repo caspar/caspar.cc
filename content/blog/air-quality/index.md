@@ -13,7 +13,7 @@ In August 2019, I installed two air quality monitors at the NYU Shanghai Campus.
 
 </div>
 
-The project has been featured on NYU's [Twitter](https://twitter.com/nyutandon/status/1172201645733797888), [Linkedin](https://www.linkedin.com/posts/casparlant_nyu-activity-6577974547553755136-glLZ) and [Facebook](https://www.facebook.com/casparlant/posts/10220422089001717) pages, as well as in an [article](https://engineering.nyu.edu/news/summer-internships-provide-students-career-enhancing-opportunities?fbclid=IwAR3tn3-nOPaOFZoPS41lPyfxWHvmeBC8G2EmWCXfmqIUSTXtF68cnr2YJk4) published by Tandon.
+The project has been featured on NYU's [Twitter](https://twitter.com/nyutandon/status/1172201645733797888), [Linkedin](https://www.linkedin.com/posts/casparlant_nyu-activity-6577974547553755136-glLZ) and [Facebook](https://www.facebook.com/casparlant/posts/10220422089001717) pages, as well as in an [article](https://engineering.nyu.edu/news/summer-internships-provide-students-career-enhancing-opportunities?fbclid=IwAR3tn3-nOPaOFZoPS41lPyfxWHvmeBC8G2EmWCXfmqIUSTXtF68cnr2YJk4).
 
 <div class="kg-card kg-image-card">
 
