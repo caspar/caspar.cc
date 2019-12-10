@@ -37,13 +37,25 @@ description: Fully-wireless and floating vegetal forms with realtime RGB LED con
 
 <div class="kg-card kg-image-card">
 
-![yuca](./veggie-party-taro-1.jpg "Taro")
+![taro root](./veggie-party-taro-1.jpg "Taro Root Forms")
 
 </div>
 
 <div class="kg-card kg-image-card">
 
-![yuca](./veggie-party-taro-2.jpg "Taro")
+![taro root](./veggie-party-taro-2.jpg "Taro Roots on the Vaccum Former")
+
+</div>
+
+<div class="kg-card kg-image-card">
+
+![cabbage detail](./veggie-party-ensemble-1.jpg "Cabbage Detail")
+
+</div>
+
+<div class="kg-card kg-image-card">
+
+![ensemble](./veggie-party-detail-1.jpg "Vegetal Ensemble")
 
 </div>
 
