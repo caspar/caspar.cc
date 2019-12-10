@@ -15,7 +15,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
-          socialimage={post.frontmatter.thumbnail.url}
+          socialimage={post.frontmatter.thumbnail.relativePath}
         />
         <article
           className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
