@@ -9,7 +9,7 @@ NYU suffers from a lack of unified communal identity that I feel is symptomatic 
 
 <div class="kg-card kg-image-card">
 
-![Gould Plaza](./gould-plaza.png)
+![Gould Plaza](./gould-plaza.png "Gould Plaza")
 
 </div>
 
@@ -23,6 +23,6 @@ I am populating the plaza with brightly colored recycled plastic benches (shown 
 
 <div class="kg-card kg-image-card">
 
-![Enzi](./enzi-1.jpg)
+![Enzi](./enzi-1.jpg "ENZI Bench: Image Courtesy of PPAG")
 
 </div>

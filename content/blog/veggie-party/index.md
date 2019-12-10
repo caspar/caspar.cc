@@ -2,7 +2,7 @@
 title: "New Media Wireless Installation"
 date: "2018-10-31"
 thumbnail: ./veggie-party-board-2.jpg
-description: Fully-wireless glowing vegetables.
+description: Fully-wireless and floating vegetal forms with realtime RGB LED control via webserver.
 ---
 
 <div class="kg-card kg-image-card">
@@ -23,13 +23,13 @@ description: Fully-wireless glowing vegetables.
 
 <div class="kg-card kg-image-card">
 
-![Jackfruit](./veggie-party-jackfruit-1.jpg)
+![Jackfruit](./veggie-party-jackfruit-1.jpg "Jackfruit")
 
 </div>
 
 <div class="kg-card kg-image-card">
 
-![Jackfruit](./veggie-party-jackfruit-2.jpg)
+![Jackfruit](./veggie-party-jackfruit-2.jpg "Jackfruit")
 
 </div>
 
@@ -37,13 +37,13 @@ description: Fully-wireless glowing vegetables.
 
 <div class="kg-card kg-image-card">
 
-![yuca](./veggie-party-yuca-1.jpg)
+![yuca](./veggie-party-taro-1.jpg "Taro")
 
 </div>
 
 <div class="kg-card kg-image-card">
 
-![yuca](./veggie-party-yuca-2.jpg)
+![yuca](./veggie-party-taro-2.jpg "Taro")
 
 </div>
 
