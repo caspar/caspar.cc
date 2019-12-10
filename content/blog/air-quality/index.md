@@ -2,7 +2,7 @@
 title: Shanghai Air Quality
 date: "2019-11-11"
 thumbnail: ./air-quality-caspar-2.jpg
-description: Air Quality Monitoring Network for NYU Shanghai in Colaboration with the UNEP
+description: Air Quality Monitoring Network for NYU Shanghai in Collaboration with the UNEP
 ---
 
 In August 2019, I installed two air quality monitors at the NYU Shanghai Campus. This was the culmination of a two-year long project funded by a \$10,000 [Green Grant](https://www.nyu.edu/life/sustainability/get-involved/green-grants.html) that I was awarded by the NYU Office of Sustainability. As project leader, I modified a design open-sourced by the U.N. Environmental Programme to give my monitors wifi- and remote-access capabilites. To help get the job done, I took on the role as a group leader at NYU's Tandon School of Engineering for the Smart Cities IoT Sensors Group, a team of six.
