@@ -92,7 +92,7 @@ const indexQuery = graphql`
     benchAccounting: file(relativePath: { eq: "ornl-caspar-1.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid_tracedSVG
+          ...GatsbyImageSharpFluid
         }
       }
     }

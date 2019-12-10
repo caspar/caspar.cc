@@ -38,13 +38,6 @@ module.exports = {
               showCaptions: true,
               quality: 75,
               wrapperStyle: `margin: 7vw 0;`,
-              tracedSVG: true,
-              tracedSVG: {
-                color: `lightgray`,
-                optTolerance: 0.4,
-                turdSize: 100,
-                turnPolicy: "TURNPOLICY_MAJORITY",
-              },
               backgroundColor: `transparent`,
               backgroundImage: `transparent`,
               disableBgImageOnAlpha: `true`,
