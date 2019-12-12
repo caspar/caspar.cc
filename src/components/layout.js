@@ -54,8 +54,9 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to="/">
-              <br />
-              <img src="/logo.png" height="99%" alt="caspar.cc site logo"></img>
+              {/* <br /> */}
+              Caspar Lant
+              {/* <img src="/logo.png" height="99%" alt="caspar.cc site logo"></img> */}
               {/* {title} */}
             </Link>
           </div>

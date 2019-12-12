@@ -53,6 +53,12 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          {
+            resolve: `gatsby-remark-rehype-images`,
+            options: {
+              tag: "rehype-image",
+            },
+          },
         ],
       },
     },
@@ -102,5 +108,14 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-remark-rehype-images`,
+      options: {
+        tag: "rehype-image",
+        sharpFunction: "fixed",
+        width: 300,
+        height: 200,
+      },
+    },
   ],
 }
