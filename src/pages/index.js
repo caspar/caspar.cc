@@ -30,7 +30,7 @@ const BlogIndex = ({ data }, location) => {
           `New York University`,
           `NYU`,
         ]}
-        description="Caspar Lant's Portfolio Website"
+        description="Caspar Lant's Portfolio Website. Shanghai Air Quality, Oak Ridge National Lab, New Media Wireless Installation, Electron Spectroscopy Group, Large-Scale Festival Light Installation, Gould Plaza, Thin Films, Etc."
         socialimage="http://caspar.cc/headshot.jpg"
       />
       {/* <Bio /> */}
