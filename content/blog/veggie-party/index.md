@@ -49,13 +49,13 @@ description: Fully-wireless and floating vegetal forms with realtime RGB LED con
 
 <div class="kg-card kg-image-card">
 
-![cabbage detail](./veggie-party-ensemble-1.jpg "Cabbage Detail")
+![cabbage detail](./veggie-party-ensemble-1.jpg "Vegetal Ensemble")
 
 </div>
 
 <div class="kg-card kg-image-card">
 
-![ensemble](./veggie-party-detail-1.jpg "Vegetal Ensemble")
+![ensemble](./veggie-party-detail-1.jpg "Cabbage Detail")
 
 </div>
 
