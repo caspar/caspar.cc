@@ -24,7 +24,7 @@ const AboutPage = ({ data }, location) => {
           `New York University`,
         ]}
         description="Caspar Lant: Artist, Scientist, Engineer"
-        socialimage="http://caspar.cc/headshot.jpg"
+        socialimage="https://caspar.cc/headshot.jpg"
       />
 
       <article className="post-content page-template no-image">
@@ -48,7 +48,7 @@ const AboutPage = ({ data }, location) => {
             NYU Leadership Fellows
           </a>
           . My other accomplishments include: two co-authorships on scientific{" "}
-          <a target="_" href="http://caspar.cc/paper-1.pdf">
+          <a target="_" href="https://caspar.cc/paper-1.pdf">
             {" "}
             publications
           </a>

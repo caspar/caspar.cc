@@ -37,15 +37,15 @@ In summer 2017 I mounted addressable white LED strips in aluminum gutters, and h
                 </video>
             </div>
              <div class="kg-image">
-                <img src="http://caspar.cc/atonal-2017-3.jpg">
+                <img src="https://caspar.cc/atonal-2017-3.jpg">
             </div>
         </div>
         <div class="kg-gallery-row">
           <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-1.jpg">
+                <img src="https://caspar.cc/atonal-2017-1.jpg">
             </div>
             <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-2.jpg">
+                <img src="https://caspar.cc/atonal-2017-2.jpg">
             </div>
         </div>
     </div>
@@ -55,10 +55,10 @@ In summer 2017 I mounted addressable white LED strips in aluminum gutters, and h
     <div class="kg-gallery-container">
         <div class="kg-gallery-row">
              <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-1.jpg">
+                <img src="https://caspar.cc/atonal-2017-1.jpg">
             </div>
             <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-2.jpg">
+                <img src="https://caspar.cc/atonal-2017-2.jpg">
             </div>
         </div>
     </div>

@@ -17,7 +17,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
           socialimage={
             post.frontmatter.thumbnail.absolutePath ||
-            `http://caspar.cc/headshot.jpg`
+            `https://caspar.cc/headshot.jpg`
           }
         />
         <article

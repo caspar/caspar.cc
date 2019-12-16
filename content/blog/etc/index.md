@@ -74,10 +74,10 @@ description: Other things I've made
         </div>
         <div class="kg-gallery-row">
           <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-1.jpg">
+                <img src="https://caspar.cc/atonal-2017-1.jpg">
             </div>
             <div class="kg-gallery-image">
-                <img src="http://caspar.cc/atonal-2017-2.jpg">
+                <img src="https://caspar.cc/atonal-2017-2.jpg">
             </div>
         </div>
     </div>

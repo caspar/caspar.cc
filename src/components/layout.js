@@ -37,7 +37,7 @@ const Layout = props => {
                 <Link to={`/about`}>About Me</Link>
               </li>
               {/* <li className="nav-cv" role="menuitem">
-                <Link to='http://caspar.cc/CASPAR_LANT_CV.pdf'>CV</Link>
+                <Link to='https://caspar.cc/CASPAR_LANT_CV.pdf'>CV</Link>
               </li> */}
               {/* <li className="nav-elements" role="menuitem">
                 <Link to={'https://calendly.com/casparlant/call'}>Elements</Link>
