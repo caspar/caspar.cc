@@ -30,7 +30,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           {/* <h4 id="bio"> */}
-          I'm a physics major at NYU in my final semester with a combined 3+
+          I'm a recent graduate and current adjunct instructor of physics at NYU with a combined 3+
           years research experience from fellowship awards at national labs in
           the{" "}
           <a target="_" href="https://science.osti.gov/wdts/suli/">
@@ -54,7 +54,7 @@ const AboutPage = ({ data }, location) => {
           </a>
           , four commissioned new-media art{" "}
           <a href="/installations"> installations</a>
-          , and one patent pending filing.
+          , and one patent pending filing. Currently a Fulbright semifinalist!
           <br />
           <br />I love working with my hands and tackling new projects. Don't
           hesitate to shoot me an <a href="mailto:caspar@nyu.edu">
