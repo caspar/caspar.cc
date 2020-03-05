@@ -3,11 +3,5 @@
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "status": 404, "dest": "/404" }
-  ],
-  "redirects": [
-    {
-      "source": "/dumbo-tour",
-      "destination": "https://drive.google.com/open?id=1jKUiOvuDXpf06-yGLx0NIauRfNvuLMD7&usp=sharing"
-    }
   ]
 }
