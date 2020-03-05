@@ -31,15 +31,6 @@ description: Other things I've made
 
 <div class="kg-card kg-image-card">
 
-![](./vacuum-forming-casparcc-1.jpg)
-
-</div>
-
-**vacuum-forming** - vacuum formed caspar.cc site logo.
-(styrene thermoplastic, suction, soap bubbles)
-
-<div class="kg-card kg-image-card">
-
 ![](./bike-decal-2.jpg)
 
 </div>
