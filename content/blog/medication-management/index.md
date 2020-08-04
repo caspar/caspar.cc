@@ -15,7 +15,7 @@ This device combats the opioid crisis by stemming the flow of prescription medic
 
 </div>
 
-<div class="kg-embed-card">
+<div class="kg-embed-card kg-width-full">
     <iframe src="https://myhub.autodesk360.com/ue2a8034b/shares/public/SH56a43QTfd62c1cd968a5755ac245963472?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
 
