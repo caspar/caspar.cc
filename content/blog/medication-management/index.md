@@ -18,16 +18,7 @@ This device combats the opioid crisis by stemming the flow of prescription medic
 <iframe src="https://myhub.autodesk360.com/ue2a8034b/shares/public/SH56a43QTfd62c1cd968a5755ac245963472?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <div class="kg-embed-card">
-    <video width="100%" autoplay loop>
-        <source src="device-turntable-1.html" type="video/html"/>
-        Your browser does not support the video tag :(
-    </video>
+        <source src="device-turntable-1.html"/>
 
 </div>
 
-
-<div class="kg-card kg-image-card">
-
-![The Device](./device-render-1.png "The Device")
-
-</div>
