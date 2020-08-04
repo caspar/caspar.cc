@@ -1,7 +1,7 @@
 ---
 title: "Pill Tracker"
 date: "2020-07-01"
-thumbnail: ./device-1.jpg
+thumbnail: ./device-render-1.jpg
 description: Medication Management and Opioid Security Device
 ---
 
