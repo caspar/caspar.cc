@@ -7,9 +7,9 @@ description: Other things I've made
 
 <div class="kg-embed-card">
     <video width="100%" autoplay loop>
-    <source src="hua-turntable-3.mp4" type="video/mp4"/>
-    Your browser does not support the video tag :(
- </video>
+        <source src="hua-turntable-3.mp4" type="video/mp4"/>
+        Your browser does not support the video tag :(
+    </video>
 
 </div>
 
@@ -22,6 +22,16 @@ description: Other things I've made
 </div>
 
 **personal heatmap** - Google logs my location continuously through the Maps app on my phone. I downloaded my location history from Google, and plotted it using Python and the Google Maps API. (These are my movements around New York City from 2015-2019.)
+
+<div class="kg-embed-card">
+    <video width="100%" autoplay loop>
+        <source src="assistive-papermaking-1.mp4" type="video/mp4"/>
+        Your browser does not support the video tag :(
+    </video>
+
+</div>
+
+**Assistive Papermaking System** I designed and built this rig for book artist Robbin Silverberg so she could start making paper after two years of living with osteoporosis in her back. The system uses a 16ft long ceiling-mounted track and tuned springs to add a restoring force when she sheetforms and couches the paper.   
 
 <!-- <div class="kg-card kg-image-card">
 
