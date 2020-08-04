@@ -1,6 +1,6 @@
 ---
 title: "Pill Tracker"
-date: "2020-07-01"
+date: "2017-05-01"
 thumbnail: ./mechanism-screenshot-1.png
 description: Medication Management and Opioid Security Device
 ---
