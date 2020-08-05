@@ -1,7 +1,7 @@
 ---
 title: "Oak Ridge National Lab"
 date: "2019-08-01"
-thumbnail: ./molecular-beam-upgrade-2.jpg
+thumbnail: ./ornl-cap-render-1.png
 description: SULI Program
 ---
 
@@ -19,12 +19,18 @@ A description of my summer research was included in an [article](https://enginee
 
 <div class="kg-card kg-image-card">
 
-<img src='molecular-beam-upgrade-1.jpg'></img>
-<img src='ornl-cap-render-1.png'></img>
+  <img src='molecular-beam-upgrade-1.jpg'></img>
 
 </div>
+
 <div class="kg-card kg-image-card">
 
-<img src='molecular-beam-upgrade-3.jpg'></img>
+  <img src='molecular-beam-upgrade-2.jpg'></img>
+
+</div>
+
+<div class="kg-card kg-image-card">
+
+  <img src='molecular-beam-upgrade-3.jpg'></img>
 
 </div>
