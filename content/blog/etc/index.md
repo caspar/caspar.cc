@@ -24,7 +24,7 @@ description: Other things I've made
 **personal heatmap** - Google logs my location continuously through the Maps app on my phone. I downloaded my location history from Google, and plotted it using Python and the Google Maps API. (These are my movements around New York City from 2015-2019.)
 
 <div class="kg-embed-card">
-    <video width="100%" autoplay loop>
+    <video width="100%" autoplay loop muted>
         <source src="assistive-papermaking-1.mp4" type="video/mp4"/>
         Your browser does not support the video tag :(
     </video>
