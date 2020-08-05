@@ -1,7 +1,7 @@
 ---
 title: "Oak Ridge National Lab"
 date: "2019-08-01"
-thumbnail: ./ornl-cap-render-1.png
+thumbnail: ./molecular-beam-upgrade-2.jpg
 description: SULI Program
 ---
 
@@ -17,10 +17,14 @@ I conducted complex molecular-beam experiments on perovskite crystals to charact
 
 A description of my summer research was included in an [article](https://engineering.nyu.edu/news/summer-internships-provide-students-career-enhancing-opportunities?fbclid=IwAR3tn3-nOPaOFZoPS41lPyfxWHvmeBC8G2EmWCXfmqIUSTXtF68cnr2YJk4) published by NYU.
 
-<div class="kg-card">
+<div class="kg-card kg-image-card">
 
 <img src='molecular-beam-upgrade-1.jpg'></img>
-<img src='molecular-beam-upgrade-2.jpg'></img>
+<img src='ornl-cap-render-1.png'></img>
+
+</div>
+<div class="kg-card kg-image-card">
+
 <img src='molecular-beam-upgrade-3.jpg'></img>
 
 </div>
