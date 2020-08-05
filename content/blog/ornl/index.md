@@ -16,3 +16,11 @@ I conducted complex molecular-beam experiments on perovskite crystals to charact
 </div>
 
 A description of my summer research was included in an [article](https://engineering.nyu.edu/news/summer-internships-provide-students-career-enhancing-opportunities?fbclid=IwAR3tn3-nOPaOFZoPS41lPyfxWHvmeBC8G2EmWCXfmqIUSTXtF68cnr2YJk4) published by NYU.
+
+<div class="kg-image-card">
+
+<img src='molecular-beam-1.png'></img>
+<img src='molecular-beam-2.png'></img>
+<img src='molecular-beam-3.png'></img>
+
+</div>
