@@ -19,8 +19,8 @@ A description of my summer research was included in an [article](https://enginee
 
 <div class="kg-image-card">
 
-<img src='molecular-beam-1.png'></img>
-<img src='molecular-beam-2.png'></img>
-<img src='molecular-beam-3.png'></img>
+<img src='molecular-beam-1.jpg'></img>
+<img src='molecular-beam-2.jpg'></img>
+<img src='molecular-beam-3.jpg'></img>
 
 </div>
