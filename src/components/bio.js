@@ -27,7 +27,6 @@ function Bio() {
             <p>
               Made by <strong>{author}</strong>.{` `}
               <a href={`https://linkedin.com/in/${social.twitter}`}>
-                You should add him on Linkedin
               </a>
             </p>
           </section>

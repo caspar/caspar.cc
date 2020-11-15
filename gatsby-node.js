@@ -30,7 +30,7 @@ exports.createPages = ({ graphql, actions }) => {
       throw result.errors
     }
 
-    // Create blog posts pages.
+    // Create project pages.
     const posts = result.data.allMarkdownRemark.edges
 
     posts.forEach((post, index) => {

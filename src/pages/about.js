@@ -54,10 +54,10 @@ const AboutPage = ({ data }, location) => {
           </a>
           , four commissioned new-media art{" "}
           <a href="/installations"> installations</a>
-          , and one patent pending filing. Currently a Fulbright semifinalist!
+          , and one patent pending filing. Most recently, I have been awarded a <a target="_" href= "https://engineering.nyu.edu/news/bound-beijing">Fulbright fellowship</a> to conduct independent research in China and Taiwan.
           <br />
           <br />I love working with my hands and tackling new projects. Don't
-          hesitate to shoot me an <a href="mailto:caspar@nyu.edu">
+          hesitate to shoot me an <a href="mailto:c@caspar.cc">
             {" "}
             email{" "}
           </a> or{" "}
