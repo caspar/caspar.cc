@@ -42,7 +42,7 @@ const AboutPage = ({ data }, location) => {
           </a>
           . I'm also the group leader and project founder of IoT sensors
           development group at Tandon School of Engineering and NYU Shanghai
-          and, most recently, one of this year's{" "}
+          and one of 2019's{" "}
           <a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/leadership-studies-development/immersive-leadership-program/undergraduate-programs/nyu-leadership-fellows/currentfellows1.html">
             {" "}
             NYU Leadership Fellows
@@ -54,7 +54,8 @@ const AboutPage = ({ data }, location) => {
           </a>
           , four commissioned new-media art{" "}
           <a href="/installations"> installations</a>
-          , and one patent pending filing. Most recently, I have been awarded a <a target="_" href= "https://engineering.nyu.edu/news/bound-beijing">Fulbright fellowship</a> to conduct independent research in China and Taiwan.
+          , and one patent pending filing. Most recently, I'm working with a group at the Courant Institute of Mathematical Sciences on an AI- and healthcare-related project.
+           I have been awarded a <a target="_" href= "https://engineering.nyu.edu/news/bound-beijing">Fulbright fellowship</a> to conduct independent research in China and Taiwan.
           <br />
           <br />I love working with my hands and tackling new projects. Don't
           hesitate to shoot me an <a href="mailto:c@caspar.cc">

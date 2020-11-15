@@ -43,7 +43,7 @@ const Layout = props => {
                 <Link to={'https://calendly.com/casparlant/call'}>Elements</Link>
               </li> */}
               <a
-                href="CASPAR-LANT-CV.pdf"
+                href="caspar.cc/CASPAR-LANT-CV.pdf"
                 title="CV"
                 target="_blank"
                 rel="noopener noreferrer"

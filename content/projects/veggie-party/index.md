@@ -1,7 +1,7 @@
 ---
 title: "New Media Wireless Installation"
 date: "2018-10-31"
-thumbnail: ./veggie-party-board-2.jpg
+thumbnail: ./veggie-party-taro-2.jpg
 description: Fully-wireless and floating vegetal forms with realtime RGB LED control via webserver.
 ---
 
