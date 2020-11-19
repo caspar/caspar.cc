@@ -9,6 +9,14 @@ This device combats the opioid crisis by stemming the flow of prescription medic
 
 <iframe src="https://myhub.autodesk360.com/ue2a8034b/shares/public/SH56a43QTfd62c1cd96848732deaab33ae16?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+<div class="kg-embed-card kg-width-full">
+    <video width="100%" autoplay loop>
+        <source src="dispenser-demo.mp4" type="video/mp4"/>
+        Your browser does not support the video tag :(
+    </video>
+
+</div>
+
 <div class="kg-embed-card">
     <video width="100%" autoplay loop>
         <source src="device-turntable-1.mp4" type="video/mp4"/>
